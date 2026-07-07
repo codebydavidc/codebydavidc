@@ -18,6 +18,8 @@
 - LinkedIn: www.linkedin.com/in/david-dharma-chen-7bb4a0319
 - Email: david.dharma.c@gmail.com
 
+![snake gif](https://github.com/codebydavidc/codebydavidc/blob/output/github-snake-dark.svg)
+
 <!--
 **codebydavidc/codebydavidc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
